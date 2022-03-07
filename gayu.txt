@@ -1,1 +1,2 @@
 I am a boring person , I can't answer what is Git and GitHub.
+Github is a version control.
